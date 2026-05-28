@@ -1,14 +1,12 @@
 <div align="center">
 
-# Bem-vindo(a) ao meu perfil! 😄
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things!;Open+to+collaborations!" alt="Typing SVG" />
+# Welcome to my profile!
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️| Languages and tools
 
 <div align="center">
 
@@ -27,7 +25,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## - Github stats
 
 <div align="center">
 
@@ -42,9 +40,14 @@
 
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api?username=tweaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api/top-langs/?username=tweaga&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 ---
 
-## 🌐 Me siga nas redes!
+## 🌐 Follow me in social media
 
 <div align="center">
 

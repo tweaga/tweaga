@@ -1,6 +1,8 @@
 <div align="center">
 
 # Welcome to my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things!;Open+to+collaborations!" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -65,6 +67,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
 
-⭐ **Se gostou de algum projeto, deixa uma estrela!** ⭐
+⭐ **If you liked a project, give it a star!** ⭐
 
 </div>

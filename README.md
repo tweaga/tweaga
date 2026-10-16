@@ -46,11 +46,9 @@
 
 <div align="center">
 
-<a href="https://youtube.com/@SEU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FFD700?style=for-the-badge&logo=youtube&logoColor=2D1B4E" alt="YouTube" /></a>
-<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=2D1B4E" alt="Instagram" /></a>
-<a href="https://discord.com/users/SEU_ID" target="_blank"><img src="https://img.shields.io/badge/DISCORD-FFD700?style=for-the-badge&logo=discord&logoColor=2D1B4E" alt="Discord" /></a>
-<a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-FFD700?style=for-the-badge&logo=gmail&logoColor=2D1B4E" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=2D1B4E" alt="LinkedIn" /></a>
+<a href="https://youtube.com/tweaga" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FFD700?style=for-the-badge&logo=youtube&logoColor=2D1B4E" alt="YouTube" /></a>
+<a href="https://instagram.com/tweaga" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=2D1B4E" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/tweaga" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=2D1B4E" alt="LinkedIn" /></a>
 <a href="https://SEU_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=2D1B4E" alt="Portfolio" /></a>
 
 <br/><br/>

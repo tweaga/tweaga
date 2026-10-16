@@ -1,72 +1,64 @@
+<h1 align="center">Welcome to my profile</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-end;Python+%7C+Django+%7C+Flask+%7C+FastAPI;Bancos+de+dados+%26+Cloud" alt="Typing SVG" />
+</div>
+
+---
+
+## 🛠️ | Languages & Frameworks
+
 <div align="center">
 
-# Welcome to my profile!
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things!;Open+to+collaborations!" alt="Typing SVG" />
-</div>
+<img src="https://img.shields.io/badge/PYTHON-2D1B4E?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python" />
+<img src="https://img.shields.io/badge/DJANGO-2D1B4E?style=for-the-badge&logo=django&logoColor=FFD700" alt="Django" />
+<img src="https://img.shields.io/badge/FLASK-2D1B4E?style=for-the-badge&logo=flask&logoColor=FFD700" alt="Flask" />
+<img src="https://img.shields.io/badge/FASTAPI-2D1B4E?style=for-the-badge&logo=fastapi&logoColor=FFD700" alt="FastAPI" />
+<img src="https://img.shields.io/badge/POSTGRESQL-2D1B4E?style=for-the-badge&logo=postgresql&logoColor=FFD700" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MYSQL-2D1B4E?style=for-the-badge&logo=mysql&logoColor=FFD700" alt="MySQL" />
+<br/>
+<img src="https://img.shields.io/badge/AWS-2D1B4E?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700" alt="AWS" />
+<img src="https://img.shields.io/badge/AZURE-2D1B4E?style=for-the-badge&logo=microsoftazure&logoColor=FFD700" alt="Azure" />
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-2D1B4E?style=for-the-badge&logo=googlecloud&logoColor=FFD700" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/GIT-2D1B4E?style=for-the-badge&logo=git&logoColor=FFD700" alt="Git" />
+<img src="https://img.shields.io/badge/VS_CODE-2D1B4E?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700" alt="VS Code" />
 
 </div>
 
 ---
 
-## 🛠️| Languages and tools
+## 📊 | Github stats
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tweaga&show_icons=true&hide_border=false&bg_color=1A0B2E&title_color=FFD700&text_color=E6DAFF&icon_color=FFD700&border_color=4B0082" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tweaga&layout=compact&langs_count=6&bg_color=1A0B2E&title_color=FFD700&text_color=E6DAFF&border_color=4B0082" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tweaga&background=1A0B2E&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=E6DAFF&sideNums=E6DAFF&sideLabels=FFD700&dates=B9A3E3&stroke=4B0082&border=4B0082" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## - Github stats
+## 🌐 | Follow me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://youtube.com/@SEU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FFD700?style=for-the-badge&logo=youtube&logoColor=2D1B4E" alt="YouTube" /></a>
+<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFD700?style=for-the-badge&logo=instagram&logoColor=2D1B4E" alt="Instagram" /></a>
+<a href="https://discord.com/users/SEU_ID" target="_blank"><img src="https://img.shields.io/badge/DISCORD-FFD700?style=for-the-badge&logo=discord&logoColor=2D1B4E" alt="Discord" /></a>
+<a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-FFD700?style=for-the-badge&logo=gmail&logoColor=2D1B4E" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=2D1B4E" alt="LinkedIn" /></a>
+<a href="https://SEU_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=2D1B4E" alt="Portfolio" /></a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tweaga&label=visitors&color=4B0082&style=flat&base=1163" alt="Visitors" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=false&locale=pt_BR)
+<br/><br/>
 
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api?username=tweaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-xi-teal-66.vercel.app/api/top-langs/?username=tweaga&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
-## 🌐 Follow me in social media
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tweaga)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tweaga/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hNHerq6DuU)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damottathomas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tweaga/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](SEU_LINK_PORTFOLIO)
-
-</div>
-
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
-
-⭐ **If you liked a project, give it a star!** ⭐
+⭐ **Se você gostou de um projeto, deixe uma estrela!** ⭐
 
 </div>
